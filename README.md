@@ -18,6 +18,3 @@ Output Layer: Sigmoid activation for binary classification
 The dataset is split into training and testing sets.
 The model is compiled using binary cross-entropy loss and Adam optimizer.
 Performance is evaluated using accuracy, confusion matrix, and classification report.
-
-# Results
-The trained model achieves high accuracy in classifying breast cancer tumors, demonstrating the effectiveness of neural networks in medical diagnostics.
